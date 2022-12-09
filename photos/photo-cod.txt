@@ -1,0 +1,13 @@
+<img src="https://via.placeholder.com/600x250/F00/FFF?text=Elzero+Web+School" alt="">
+
+<!doctype html>
+<html>
+<head>
+ <meta charset="UTF-8" />
+<title></title>
+</head>
+
+<body>
+
+</body>
+</html>
